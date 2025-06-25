@@ -5,7 +5,7 @@ I am an american minecraft modder and aspiring content creator.
  - [Jmons Extended Mechanics](https://github.com/JmonJoshMC/JmonExtendedMechanics)
    - I am considering making a youtube survival series with this mod (to showcase the mod in a fun, engaging way)
    - I also make this mod with skyblock parity in mind
-   - One day, I would like to make compatability with other mods once I figure out hoe to do that...
+   - One day, I would like to make compatability with other mods once I figure out how to do that...
 
 ## Future Plans
  - I want to one day make a mod that overhauls vanilla minecraft structures to be gigantic (like, a jungle temple being 400x400 blocks!)
