@@ -6,7 +6,8 @@ I am an american minecraft modder and aspiring content creator.
    - I am considering making a youtube survival series with this mod (to showcase the mod in a fun, engaging way)
    - I also make this mod with skyblock parity in mind
    - One day, I would like to make compatability with other mods once I figure out how to do that...
-
+- MineChem Remastered [WIP]:
+   - A reimagined take on MineChem for modern minecraft
 ## Future Plans
  - I want to one day make a mod that overhauls vanilla minecraft structures to be gigantic (like, a jungle temple being 400x400 blocks!)
    - Maybe at some point, I could collaborate with Big Globe or JJThunder to make the worldgen match the size of the structures
